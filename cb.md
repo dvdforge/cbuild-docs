@@ -34,7 +34,7 @@ If you're used to build systems like Make you've already figured out that the .c
     
 <a href="POSTBUILD.md">POSTBUILD</a>:
     @echo before build action
-```
+</pre>
 
 ## Example
 ``` Makefile
@@ -42,7 +42,7 @@ If you're used to build systems like Make you've already figured out that the .c
 TARGETNAME=HelloWorld
 TARGETTYPE=EXE
 SOURCES=HelloWorld.c
-</pre>
+```
 
 ``` Makefile
 # x624 cbuild file
