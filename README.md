@@ -1,2 +1,1 @@
-# cbuild-docs
-CBuild documentation
+# CBuild documentation
