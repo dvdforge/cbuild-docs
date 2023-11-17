@@ -3,5 +3,5 @@ Specifies additional library search path, use semi-colon delimited list if more 
 
 ## Example:
 ``` Makefile
-LIBPATH=libs
+LIBPATHS=libs
 ```
